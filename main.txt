@@ -1,0 +1,2 @@
+import{GLTFLoader} from "./libs/GLTFLoader.js"
+const THREE = window.MINDAR.IMAGE.THREE;
